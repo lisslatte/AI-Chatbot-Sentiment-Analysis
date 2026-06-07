@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28681508/README.md)
 # WEB_ANALYSIS README
 
 This folder contains the main analysis notebook plus the CSV files it reads and produces for the strict AI companionship news analysis workflow.
